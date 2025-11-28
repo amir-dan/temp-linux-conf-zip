@@ -1,0 +1,61 @@
+* {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    text-shadow: none;
+}
+#custom-menu, #custom-cpu-icon, #custom-memory-icon, #custom-disk-icon, #mpd.icon, #mpd.icon.disconnected, #mpd.icon.stopped, #custom-functions, #custom-language-icon, #pulseaudio.icon, #pulseaudio.icon.muted, #custom-clock-icon, #custom-io {
+    font-family: Material\-Design\-Iconic\-Font;
+    font-size: 24px;
+}
+#cpu, #memory, #disk, #mpd.icon, #mpd.icon.disconnected, #mpd.icon.stopped, #mpd, #mode, #custom-functions, #language, #pulseaudio, #clock {
+    padding: 0px 8px 0px 8px;
+}
+#custom-memory-icon, #pulseaudio.icon, #custom-disk-icon, #custom-language-icon, #pulseaudio.icon.muted, #custom-clock-icon {
+    padding: 0px 0px 0px 8px;
+}
+#workspaces button, #workspaces button.focused, #cpu, #memory, #disk, #mpd, #mode, #language, #pulseaudio, #clock {
+    font-family: JetBrains Mono NL;
+    font-size: 14px;
+}
+#mpd.icon.disconnected, #mpd.icon.stopped, #custom-functions, #pulseaudio.icon.muted, #custom-clock-icon {
+    color: #EC7875;
+}
+#cpu, #memory, #disk, #mpd, #language, #pulseaudio, #clock {
+    color: #C4C7C5;
+}
+#workspaces button, #workspaces button.focused {
+    padding: 0px 8px 0px 8px;
+}
+#workspaces button, #mode, #custom-io {
+    color: #4DD0E1;
+}
+#custom-memory-icon, #pulseaudio.icon {
+    color: #42A5F5;
+}
+window#waybar {
+    background-color: #212B30;
+}
+#custom-menu {
+    color: #BA68C8;
+    padding: 0px 12px 0px 16px;
+}
+#workspaces button.focused {
+    color: #EC407A;
+}
+#custom-cpu-icon {
+    color: #FDD835;
+    padding: 0px 0px 0px 12px;
+}
+#custom-disk-icon {
+    color: #E57C46;
+}
+#mpd.icon {
+    color: #61C766;
+}
+#custom-language-icon {
+    color: #6D8895;
+}
+#custom-io {
+    padding: 0px 24px 0px 16px;
+}

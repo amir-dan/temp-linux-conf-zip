@@ -1,0 +1,51 @@
+"type" = { "fg" = "blue", "modifiers" = [ "bold" ] }
+"comment" = { "fg" = "gray" }
+"constant" = { "fg" = "dark" }
+"constructor" = { "fg" = "blue", "modifiers" = [ "bold" ] }
+"diagnostic.error" = { "underline"."color" = "magenta", "underline"."style" = "line" }
+"diagnostic.hint" = { "underline"."color" = "green", "underline"."style" = "line" }
+"diagnostic.info" = { "underline"."color" = "blue", "underline"."style" = "line" }
+"diagnostic.warning" = { "underline"."color" = "gold", "underline"."style" = "line" }
+"diff.delta" = { "fg" = "gold" }
+"diff.minus" = { "fg" = "magenta" }
+"diff.plus" = { "fg" = "green" }
+"error" = { "fg" = "magenta" }
+"function" = { "fg" = "dark" }
+"hint" = { "fg" = "green" }
+"info" = { "fg" = "blue" }
+"keyword" = { "fg" = "blue", "modifiers" = [ "bold" ] }
+"namespace" = { "fg" = "dark" }
+"operator" = { "fg" = "black", "modifiers" = [ "bold" ] }
+"punctuation" = { "fg" = "black", "modifiers" = [ "bold" ] }
+"special" = { "fg" = "black", "modifiers" = [ "bold" ] }
+"string" = { "fg" = "dark" }
+"ui.background" = { "bg" = "white" }
+"ui.cursor" = { "bg" = "silver" }
+"ui.cursor.match" = { "bg" = "silver", "fg" = "blood", "modifiers" = [ "bold" ] }
+"ui.cursor.primary" = { "bg" = "blood", "fg" = "white", "modifiers" = [ "bold" ] }
+"ui.help" = { "bg" = "silver", "fg" = "gray" }
+"ui.linenr" = { "fg" = "gray" }
+"ui.linenr.selected" = { "fg" = "blood", "modifiers" = [ "bold" ] }
+"ui.menu" = { "bg" = "silver", "fg" = "gray" }
+"ui.menu.selected" = { "bg" = "silver", "fg" = "blood", "modifiers" = [ "bold" ] }
+"ui.popup" = { "bg" = "silver", "fg" = "gray" }
+"ui.selection" = { "bg" = "silver" }
+"ui.statusline" = { "bg" = "silver", "fg" = "dark", "modifiers" = [ "bold" ] }
+"ui.statusline.inactive" = { "bg" = "silver", "fg" = "gray" }
+"ui.text" = { "fg" = "dark" }
+"ui.text.focus" = { "fg" = "blood", "modifiers" = [ "bold" ] }
+"ui.window" = { "bg" = "silver", "fg" = "silver" }
+"variable" = { "fg" = "dark" }
+"warning" = { "fg" = "gold" }
+
+[palette]
+"black" = "#000000"
+"blood" = "#800000"
+"blue" = "#0087AF"
+"dark" = "#404040"
+"gold" = "#FFD700"
+"gray" = "#7B91B3"
+"green" = "#89BEB7"
+"magenta" = "#C2185B"
+"silver" = "#E0E0E0"
+"white" = "#FFFFFF"

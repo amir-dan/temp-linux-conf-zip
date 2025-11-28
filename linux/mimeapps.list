@@ -1,0 +1,8 @@
+[Default Applications]
+image/avif=imv-dir.desktop
+image/jpeg=imv-dir.desktop
+image/png=imv-dir.desktop
+inode/directory=org.kde.dolphin.desktop
+text/plain=sublime-text.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop

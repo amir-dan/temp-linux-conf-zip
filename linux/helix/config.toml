@@ -1,0 +1,7 @@
+"theme" = "catppuccin_mocha"
+
+[editor]
+"bufferline" = "multiple"
+"mouse" = false
+"statusline"."left" = ["mode", "file-name"]
+"statusline"."right" = ["diagnostics", "spinner", "position"]

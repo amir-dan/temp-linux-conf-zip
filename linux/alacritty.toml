@@ -1,0 +1,29 @@
+[env]
+TERM = "alacritty"
+
+[cursor]
+style.shape = "Beam"
+
+[font]
+size = 16
+normal.family = "JetBrains Mono NL"
+normal.style = "Regular"
+
+[window]
+dynamic_padding = false
+dynamic_title = false
+startup_mode = "Fullscreen"
+
+[colors]
+cursor.cursor = "#FFFFFF"
+cursor.text = "#000000"
+normal.black = "#222827"
+normal.blue = "#654A96"
+normal.cyan = "#A9D1DF"
+normal.green = "#9C75DD"
+normal.magenta = "#625566"
+normal.red = "#D5A8E3"
+normal.white = "#E6EBE5"
+normal.yellow = "#9898AE"
+primary.background = "#000000"
+primary.foreground = "#FFFFFF"
